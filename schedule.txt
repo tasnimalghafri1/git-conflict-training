@@ -1,4 +1,6 @@
+detailed-schedule
 Monday: Team Meeting
 Tuesday-Wednesday: Development Sprint
 Thursday: Testing
 Friday: Review
+
