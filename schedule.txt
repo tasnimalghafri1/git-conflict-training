@@ -1,1 +1,6 @@
--e "Monday: Team Meeting and Planning\nTuesday: Frontend Development\nWednesday: Backend Development\nThursday: Integration Testing\nFriday: Code Review and Deployment" 
+detailed-schedule
+Monday: Team Meeting
+Tuesday-Wednesday: Development Sprint
+Thursday: Testing
+Friday: Review
+
