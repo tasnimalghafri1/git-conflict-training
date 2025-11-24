@@ -1,4 +1,9 @@
 App Name: TaskManager
+ security-update
 Version: 1.5
 Database:MySQL-Secure
 Port: 8443
+Version: 2.0
+Database: PostgreSQL
+Port: 5000
+
